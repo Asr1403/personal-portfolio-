@@ -1,0 +1,1 @@
+Your profile photo is included in images/profile.png and used in Home and About. Open index.html or run docker build -t portfolio . then docker run --rm -p 8080:80 portfolio. Contact form opens the visitor’s email application. External fonts and typing animation require internet.
